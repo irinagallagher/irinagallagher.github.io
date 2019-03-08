@@ -1,3 +1,8 @@
+---
+title: Owncloud Server Quickstart Guide
+layout: post
+---
+
 Owncloud Server Quickstart Guide
 ================================
 This guide is aimed at helping Administrators get an ownCloud Server up and running in a production environment, using the **ownCloud tarball** installation option.
