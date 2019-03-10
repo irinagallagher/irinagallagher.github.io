@@ -19,12 +19,12 @@ Download the ownCloud Server
 1. Download the latest production release tarball from https://owncloud.org/download/.
 2. Verify the PGP signature:
 
-```
-wget https://download.owncloud.org/community/owncloud-x.y.z.tar.bz2.asc
-wget https://owncloud.org/owncloud.asc
-gpg --import owncloud.asc
-gpg --verify owncloud-x.y.z.tar.bz2.asc owncloud-x.y.z.tar.bz2
-```
+  ```
+  wget https://download.owncloud.org/community/owncloud-x.y.z.tar.bz2.asc
+  wget https://owncloud.org/owncloud.asc
+  gpg --import owncloud.asc
+  gpg --verify owncloud-x.y.z.tar.bz2.asc owncloud-x.y.z.tar.bz2
+  ```
 
 Check the Prerequisites
 -----------------------
@@ -43,13 +43,13 @@ Enable Users to Connect to ownCloud
 To enable users to connect to ownCloud you need to configure the ownCloud Access URLs in `config/config.php`:
 
 1. Add the ownCloud Server domain name to the `trusted_domains` section of `config/config.php`:
-```
-'trusted_domains' => [
-   0 => 'localhost',
-   1 => 'server1.example.com',
-   2 => '192.168.1.50',
-],
-```
+  ```
+  'trusted_domains' => [
+     0 => 'localhost',
+     1 => 'server1.example.com',
+     2 => '192.168.1.50',
+  ],
+  ```
 2. Add any additional URLs that can be used to log into ownCloud to the `trusted_domains`.
 
 You are now ready to start fine tuning the configuration of the ownCloud Server to your requirements. See Server Configuration [https://doc.owncloud.org/server/10.1/admin_manual/configuration/server/activity_configuration.html] for details on the features and functions that can be configured.
@@ -58,7 +58,7 @@ Add User Accounts
 -----------------
 User accounts are added and managed using the ownCloud Web UI:
 
-<img src="https://doc.owncloud.org/server/10.1/admin_manual/_images/docker/owncloud-ui-login.png" alt="ownCloud Web UI" width="200"/>
+<img src="https://doc.owncloud.org/server/10.1/admin_manual/_images/docker/owncloud-ui-login.png" alt="ownCloud Web UI" width="600"/>
 
 1. Login  to  the  ownCloud  Web UI by entering the server address in a browser: `http://localhost:8080`.
 2. Open the User management page.
