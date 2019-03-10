@@ -58,7 +58,7 @@ Add User Accounts
 -----------------
 User accounts are added and managed using the ownCloud Web UI:
 
-![ownCloud Web UI](https://doc.owncloud.org/server/10.1/admin_manual/_images/docker/owncloud-ui-login.png)
+<img src="https://doc.owncloud.org/server/10.1/admin_manual/_images/docker/owncloud-ui-login.png" alt="ownCloud Web UI" width="200"/>
 
 1. Login  to  the  ownCloud  Web UI by entering the server address in a browser: `http://localhost:8080`.
 2. Open the User management page.
