@@ -1,6 +1,7 @@
 ---
-layout: home
-title: Quickstart Home
+title: Owncloud Quickstart Home
+layout: default
+permalink:
 ---
 
 # Quickstart Guides to Installing and Connecting to ownCloud

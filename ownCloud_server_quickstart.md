@@ -1,5 +1,6 @@
 ---
-layout: post
+title: Owncloud Server Quickstart Guide
+layout: default
 permalink: /admin/
 ---
 
