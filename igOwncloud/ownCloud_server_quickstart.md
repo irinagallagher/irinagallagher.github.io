@@ -16,7 +16,7 @@ The following installation options are also available, and further details on ho
 
 Download the ownCloud Server
 ----------------------------
-1. Download the latest production release tarball from https://owncloud.org/download/.
+1. Download the latest production release tarball from [https://owncloud.org/download/](https://owncloud.org/download/).
 2. Verify the PGP signature:
 
     ```
@@ -25,10 +25,7 @@ Download the ownCloud Server
     gpg --import owncloud.asc
     gpg --verify owncloud-x.y.z.tar.bz2.asc owncloud-x.y.z.tar.bz2
     ```
-
-Check the Prerequisites
------------------------
-Install, enable and configure the required PHP extensions - see [Prerequisites](https://doc.owncloud.org/server/10.1/admin_manual/installation/manual_installation.html#prerequisites) for a complete list and further details.
+3. Install, enable and configure the required PHP extensions - see [Prerequisites](https://doc.owncloud.org/server/10.1/admin_manual/installation/manual_installation.html#prerequisites) for a complete list and further details.
 
 Install the ownCloud Server
 ---------------------------
