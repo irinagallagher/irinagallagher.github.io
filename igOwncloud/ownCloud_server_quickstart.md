@@ -19,12 +19,12 @@ Download the ownCloud Server
 1. Download the latest production release tarball from https://owncloud.org/download/.
 2. Verify the PGP signature:
 
-  ```
-  wget https://download.owncloud.org/community/owncloud-x.y.z.tar.bz2.asc
-  wget https://owncloud.org/owncloud.asc
-  gpg --import owncloud.asc
-  gpg --verify owncloud-x.y.z.tar.bz2.asc owncloud-x.y.z.tar.bz2
-  ```
+    ```
+    wget https://download.owncloud.org/community/owncloud-x.y.z.tar.bz2.asc
+    wget https://owncloud.org/owncloud.asc
+    gpg --import owncloud.asc
+    gpg --verify owncloud-x.y.z.tar.bz2.asc owncloud-x.y.z.tar.bz2
+    ```
 
 Check the Prerequisites
 -----------------------
@@ -62,9 +62,12 @@ User accounts are added and managed using the ownCloud Web UI:
 
 1. Login  to  the  ownCloud  Web UI by entering the server address in a browser: `http://localhost:8080`.
 2. Open the User management page.
-![ownCloud Web UI User Mgmt Page](https://doc.owncloud.org/server/10.1/admin_manual/_images/users-config.png)
+
+<img src="https://doc.owncloud.org/server/10.1/admin_manual/_images/users-config.png" alt="ownCloud Web UI User Mgmt Page" width="600"/>
+
 3. (Optional) Ensure the "Send email to new user" option is selected in the settings - open the Settings screen by selecting the gear icon:
-![Settings](https://doc.owncloud.org/server/10.1/admin_manual/_images/users-config-2.png)
+
+<img src="https://doc.owncloud.org/server/10.1/admin_manual/_images/users-config-2.png" alt="ownCloud Web UI Settings" width="600"/>
 4. Enter the username and an initial password for the new user in the Username and Password fields.
 5. (Optional) Select the group(s) the user belongs to from the drop-down `Groups` field.
 6. Select `Create`. The new user will be sent an email if the "Send email to new user" setting has been selected.
