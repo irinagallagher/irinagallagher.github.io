@@ -1,10 +1,10 @@
 ---
-title: Owncloud Server Quickstart Guide
+title: Owncloud Server Quick Start Guide
 layout: default
 permalink: /admin/
 ---
 
-# Owncloud Server Quickstart Guide
+# Owncloud Server Quick Start Guide
 This guide is aimed at helping **Administrators** get an ownCloud Server up and running in a production environment, using the **ownCloud tarball** installation option.
 
 The following installation options are also available, and further details on how to use these options can be found at the link provided:
