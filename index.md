@@ -4,7 +4,8 @@ layout: default
 permalink:
 ---
 
-# Quick Start Guides to Installing and Connecting to ownCloud
+# Installing and Connecting to ownCloud
+# Quick Start Guides
 Use the following links to open the guide you are interested in:
 
 - [Administrator Quick Start](https://irinagallagher.github.io/admin/)
