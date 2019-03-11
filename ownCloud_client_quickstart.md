@@ -1,10 +1,10 @@
 ---
-title: Owncloud Client Quickstart Guide
+title: Owncloud Client Quick Start Guide
 layout: default
 permalink: /client/
 ---
 
-# Owncloud Client Quickstart Guide
+# Owncloud Client Quick Start Guide
 This guide is aimed at helping **Users** connect to an ownCloud Server.
 
 The following connection options are available:
@@ -16,7 +16,7 @@ The following connection options are available:
 1. Download the installer package for your operating system from [https://owncloud.com/download/#desktop-clients](https://owncloud.com/download/#desktop-clients).
 2. Use the Installation Wizard to install the Desktop Client - see [here](https://doc.owncloud.com/desktop/2.5/installing.html#installation-wizard) for detailed guidance.
 
-> Note: You will need the URL of the ownCloud Server and your own account login details during the installation process, so have them to hand before starting the installation.
+> **Note:** You will need the URL of the ownCloud Server and your own account login details during the installation process, so have them to hand before starting the installation.
 
 Once the installation wizard is finished you will be connected to the ownCloud Server. A status icon will be displayed on your system tray - see [here](https://doc.owncloud.com/desktop/2.5/navigating.html) for details on the status indicators.
 
