@@ -1,11 +1,11 @@
 ---
-title: Owncloud Quickstart Home
+title: Owncloud Quick Start Home
 layout: default
 permalink:
 ---
 
-# Quickstart Guides to Installing and Connecting to ownCloud
+# Quick Start Guides to Installing and Connecting to ownCloud
 Use the following links to open the guide you are interested in:
 
-- [Administrator Quickstart](https://irinagallagher.github.io/admin/)
-- [User Quickstart](https://irinagallagher.github.io/client/)
+- [Administrator Quick Start](https://irinagallagher.github.io/admin/)
+- [User Quick Start](https://irinagallagher.github.io/client/)
